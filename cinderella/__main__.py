@@ -35,11 +35,10 @@ _My name is_ *{}* _i am a powerful pro bot developed by_
 
 
 HELP_STRINGS = """
-Heya I am [*{}*](https://telegra.ph/file/7872712f1183850684931.jpg)
+Heya I am [{}](https://telegra.ph/file/7872712f1183850684931.jpg)
 _I'm a modular group management bot with a few fun extras_!
 
-{}
-And the following:
+
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 

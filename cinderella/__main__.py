@@ -28,7 +28,8 @@ from cinderella.modules.connection import connect_button
 
 PM_START_TEXT = """
 _Hello_ *{}*
-_My name is_ *{}* _i am a powerful pro bot developed by_
+_My name is_ *{}* _A Powerful Telegram ProBot to Manage Your Groups,feel free to add to your groups!!
+Maintained by_
 [{}](tg://user?id={})"""
 
 
@@ -174,7 +175,7 @@ def send_start(bot, update):
     text = PM_START_TEXT
     keyboard = [[InlineKeyboardButton(text="🛡Help🛡",callback_data="help_back"),InlineKeyboardButton(text="💫Creator💫",url="https://t.me/fun_heat")]]
     keyboard += [[InlineKeyboardButton(text="💠Connect Group💠", callback_data="main_connect"),InlineKeyboardButton(text="🚀Add Me🚀",url="t.me/{}?startgroup=true".format(bot.username))]]
-    keyboard += [[InlineKeyboardButton(text="SUPPORT",url="https://t.me/MT_Official")]]
+    keyboard += [[InlineKeyboardButton(text="🌱SUPPORT🌱",url="https://t.me/MT_Officials")]]
 
     
 

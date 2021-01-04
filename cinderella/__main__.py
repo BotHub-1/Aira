@@ -175,6 +175,7 @@ def send_start(bot, update):
     text = PM_START_TEXT
     keyboard = [[InlineKeyboardButton(text="🛡Help🛡",callback_data="help_back"),InlineKeyboardButton(text="💫Creator💫",url="https://t.me/fun_heat")]]
     keyboard += [[InlineKeyboardButton(text="💠Connect Group💠", callback_data="main_connect"),InlineKeyboardButton(text="🚀Add Me🚀",url="t.me/{}?startgroup=true".format(bot.username))]]
+    keyboard += [[InlineKeyboardButton(text="SUPPORT",url="https://t.me/MT_Official"))]]
 
     
 

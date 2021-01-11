@@ -29,7 +29,7 @@ from cinderella.modules.connection import connect_button
 PM_START_TEXT = """
 ʜᴇʏᴀ *{}*
 ɪ ᴀᴍ *{}*\n_ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ
- [{}](tg://user?id={})"""
+ [{}](tg://user?id={}) ʏᴏᴜ ᴄᴀɴ ғᴇʟʟ ғʀᴇᴇ ᴀɴᴅ ᴀᴅᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs """
 
 
 

@@ -597,7 +597,7 @@ def main():
             updater.bot.set_webhook(url=URL + TOKEN)
 
     else:
-        LOGGER.info("Shamna is running...")
+        LOGGER.info("aira is running...")
         updater.start_polling(timeout=15, read_latency=4)
 
     updater.idle()

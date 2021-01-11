@@ -35,7 +35,7 @@ _Maintained by_ [{}](tg://user?id={})"""
 
 
 HELP_STRINGS = """
-Heya I am [{}](https://telegra.ph/file/7872712f1183850684931.jpg)
+Heya I am [{}](https://telegra.ph/file/b12db0912e6408344260c.jpg)
 _I'm a modular group management bot with a few fun extras!_
 
 

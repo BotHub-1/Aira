@@ -28,8 +28,8 @@ from cinderella.modules.connection import connect_button
 
 PM_START_TEXT = """
 ʜᴇʏᴀ *{}*
-ɪ ᴀᴍ *{}*\n_A Powerful Telegram ProBot to Manage Your Groups,feel free to add to your groups!!_
-_Maintained by_ [{}](tg://user?id={})"""
+ɪ ᴀᴍ *{}*\n_ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ
+ [{}](tg://user?id={})"""
 
 
 
